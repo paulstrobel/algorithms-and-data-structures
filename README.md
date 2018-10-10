@@ -1,1 +1,1 @@
-# algorithms-and-data-structures
+# Practices of algorithms and data structures
